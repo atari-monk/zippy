@@ -1,5 +1,5 @@
-import { InputSystem } from "../systems/input-system.js";
 import { GameEngine } from "../core/game-engine.js";
+import { InputSystem } from "../systems/input/input-system.js";
 import { SceneSystem } from "../systems/scene-system.js";
 
 export class GameEngineFactory {
